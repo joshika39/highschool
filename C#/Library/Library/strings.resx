@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="WelcomeText" xml:space="preserve">
+        <value>Welcome to Joshua's Library Manager</value>
+    </data>
+    <data name="InfoCommandsText" xml:space="preserve">
+        <value>If you wish to perform something check the following commands:
+- 'a' is for adding.
+- 'r' is for read.
+- 'm' is for modifying something.
+- 'b' is for borrowing books.
+- 'q' is for quit from the program.
+- 'esc' is for going up one menu level.</value>
+    </data>
+    <data name="BookNumberText" xml:space="preserve">
+        <value>The number of the book in the library is: {0}</value>
+    </data>
+    <data name="UserNumberText" xml:space="preserve">
+        <value>The number of the users logged in to the library is: {0}</value>
+    </data>
+    <data name="YourChoice" xml:space="preserve">
+        <value>Your Choice: </value>
+    </data>
+    
+    <data name="WhatToAdd" xml:space="preserve">
+        <value>What do you want to add? 
+</value>
+    </data>
+    <data name="WhatToRead" xml:space="preserve">
+        <value>What do you want to read?
+</value>
+    </data>
+    <data name="HowToModify" xml:space="preserve">
+        <value>How to you want to modify?
+If you wish to perform something check the following commands:
+- 'd' is for delete something.</value>
+    </data>
+    
+    <data name="InfoCommandsAddText" xml:space="preserve">
+        <value>If you wish to perform something check the following commands:
+- 'u' is for users.
+- 'b' is for books.</value>
+    </data>
+
+    <!-- User Things -->
+    <data name="UserName" xml:space="preserve">
+            <value>Enter your name: </value>
+        </data>
+    <data name="UserEmail" xml:space="preserve">
+            <value>Enter your email: </value>
+        </data>
+    <data name="UserAge" xml:space="preserve">
+            <value>Enter Your Age: </value>
+        </data>
+    <data name="PropertyID" xml:space="preserve">
+            <value>Id: {0}</value>
+        </data>
+    <data name="PropertyUserName" xml:space="preserve">
+            <value>, Name: {1}</value>
+        </data>
+    <data name="PropertyAge" xml:space="preserve">
+            <value>, Age: {2}</value>
+        </data>
+    <data name="PropertyEmail" xml:space="preserve">
+            <value>, Email: {3}</value>
+        </data>
+    <data name="PropertyPremium" xml:space="preserve">
+            <value>Premium user: {0}</value>
+        </data>
+    <!-- User Things -->
+
+
+    <!-- Book things-->
+    <data name="BookAuthor" xml:space="preserve">
+        <value>Author of the book: </value>
+    </data>
+    <data name="BookTitle" xml:space="preserve">
+        <value>Title of the book: </value>
+    </data>
+    <data name="PropertyTitle" xml:space="preserve">
+        <value>, Title: {1}</value>
+    </data>
+    <data name="PropertyAuthor" xml:space="preserve">
+        <value>, Author: {2}</value>
+    </data>
+    <data name="PropertyBorrowed" xml:space="preserve">
+        <value>
+The book is borrowed: {0}</value>
+    </data>
+    <data name="PropertyReturned" xml:space="preserve">
+        <value>The book is returned: {0}</value>
+    </data>
+    <data name="BookToReturn" xml:space="preserve">
+        <value>Which book would you want to return?
+Please enter in it's ID: </value>
+    </data>
+    <data name="BookToBorrow" xml:space="preserve">
+        <value>Which book would you want to borrow?
+Please enter in it's ID: </value>
+    </data>
+    <data name="WhoIsBorrowing" xml:space="preserve">
+        <value>Who is borrowing the book?
+Please enter in his/her ID: </value>
+    </data>
+    <data name="WhoIsReturning" xml:space="preserve">
+        <value>Who is returning the book?
+Please enter in his/her ID: </value>
+    </data>
+    <!-- Book things-->
+
+    <data name="AnswerYes" xml:space="preserve">
+        <value>Yes</value>
+    </data>
+    <data name="AnswerNo" xml:space="preserve">
+        <value>No</value>
+    </data>
+    <data name="InfoWrongInput" xml:space="preserve">
+        <value> !!! __Incorrect option, please select from below.__ !!!
+</value>
+    </data>
+    <data name="InfoWrongInputValue" xml:space="preserve">
+        <value>Incorrect value, please enter in some number: </value>
+    </data>
+    <data name="InfoWantToReturnOrBorrow" xml:space="preserve">
+        <value>What do you want? Return a book or borrow a book?
+- 'b' when borrow a book.
+- 'r' when return a book.</value>
+    </data>
+    <data name="InfoAdded" xml:space="preserve">
+        <value>Added!</value>
+    </data>
+    <data name="InfoUnderDevelopement" xml:space="preserve">
+        <value>This feature is still under development!
+</value>
+    </data>
+    <data name="ErrorUserFileNotFound" xml:space="preserve">
+        <value>There is no file for users or books yet. Add some!</value>
+    </data>
+    <data name="ErrorBookFileNotFound" xml:space="preserve">
+        <value>There is no file for users or books yet. Add some!</value>
+    </data>
+    <data name="LanguageSwitch" xml:space="preserve">
+        <value>Choose a language for the test:
+- 'h' is for hungarian.
+- 'e' is for english.
+- 'j' is for japanese.</value>
+    </data>
+</root>
