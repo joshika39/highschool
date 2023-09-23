@@ -1,0 +1,119 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="WelcomeText" xml:space="preserve">
+        <value>Üdvözöllek Joshua Könyvtárkezelőjében.</value>
+    </data>
+    <data name="AnswerNo" xml:space="preserve">
+        <value>Nem</value>
+    </data>
+    <data name="AnswerYes" xml:space="preserve">
+        <value>Igen</value>
+    </data>
+    <data name="BookTitle" xml:space="preserve">
+        <value>Könyv címe</value>
+    </data>
+    <data name="BookAuthor" xml:space="preserve">
+        <value>Könyv írója</value>
+    </data>
+    <data name="BookNumberText" xml:space="preserve">
+        <value>A könyvek száma a könyvtárban: {0}</value>
+    </data>
+    <data name="ErrorBookFileNotFound" xml:space="preserve">
+        <value>Még nincs file a felhasználóknak, vagy könyveknek.</value>
+    </data>
+    <data name="ErrorUserFileNotFound" xml:space="preserve">
+        <value>Még nincs file a felhasználóknak, vagy könyveknek.</value>
+    </data>
+    <data name="HowToModify" xml:space="preserve">
+        <value>Ha szeretnél módosítani valamit, akkor használd a következő parancsokat:
+"d" - a kitörléskez</value>
+    </data>
+    <data name="InfoAdded" xml:space="preserve">
+        <value>Hozzáadva</value>
+    </data>
+    <data name="InfoCommandsAddText" xml:space="preserve">
+        <value>Ha szeretnél valamit végrehajtani, vedd figyelembe a következő parancsokat:
+ - "u" a felhasználók.
+ - "b" a könyvek</value>
+    </data>
+    <data name="InfoCommandsText" xml:space="preserve">
+        <value>Ha szeretnél valamit végrehajtani, vedd figyelembe a következő parancsokat:
+ - "a" a hozzáadáshoz
+ - "r" az olvasáshoz
+ - "m" a módosításhoz
+ - "b" a könyvkivételhez
+ - "q" a kilépéshez
+ - "esc" egy menüvel való visszalépéshez</value>
+    </data>
+    <data name="YourChoice" xml:space="preserve">
+        <value>Válasz: </value>
+    </data>
+    <data name="PropertyAge" xml:space="preserve">
+        <value>, Kor: {2}</value>
+    </data>
+    <data name="PropertyAuthor" xml:space="preserve">
+        <value>, Szerző: {2}</value>
+    </data>
+    <data name="PropertyBorrowed" xml:space="preserve">
+        <value>A köny ki van véve: </value>
+    </data>
+    <data name="PropertyEmail" xml:space="preserve">
+        <value>, Email {3}</value>
+    </data>
+    <data name="PropertyID" xml:space="preserve">
+        <value>ID: {0}</value>
+    </data>
+    <data name="PropertyPremium" xml:space="preserve">
+        <value>Premuim Felhasználó: {0}</value>
+    </data>
+    <data name="PropertyTitle" xml:space="preserve">
+        <value>, Cím: {1}</value>
+    </data>
+    <data name="PropertyUserName" xml:space="preserve">
+        <value>, Név: {1}</value>
+    </data>
+    <data name="UserAge" xml:space="preserve">
+        <value>Yrd be a korod: </value>
+    </data>
+    <data name="UserEmail" xml:space="preserve">
+        <value>Írd be az emailed:</value>
+    </data>
+    <data name="UserName" xml:space="preserve">
+        <value>Írd be a neved: </value>
+    </data>
+    <data name="UserNumberText" xml:space="preserve">
+        <value>A felhasználók száma a könyvtárban: {0}</value>
+    </data>
+    <data name="WhatToAdd" xml:space="preserve">
+        <value>Mit szeretne hozzáadni?
+</value>
+    </data>
+    <data name="WhatToRead" xml:space="preserve">
+        <value>Mit szeretne kiolvasni?
+</value>
+    </data>
+    <data name="InfoUnderDevelopement" xml:space="preserve">
+        <value>Ez a funkcó még mindig fejlesztés alatt van!
+</value>
+    </data>
+    <data name="InfoWantToReturnOrBorrow" xml:space="preserve">
+        <value>Mit szeretne? Visszahozni, vagy kivenni?
+ - "b" amikot kivenni.
+ - "r" amikor visszahozni</value>
+    </data>
+    <data name="InfoWrongInput" xml:space="preserve">
+        <value>!!! __ Rossz opció, kérlek válassz megfelelőt lentról.__ !!!
+</value>
+    </data>
+</root>
